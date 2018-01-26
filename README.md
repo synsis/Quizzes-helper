@@ -20,7 +20,7 @@
 
 * baidu-aip OCR SDK [下载地址](https://ai.baidu.com/sdk#ocr)
 
-* 请到 [百度云](https://cloud.baidu.com/product/ocr) 注册账户开通文字识别应用，把信息填写到 lucky_1_4.py 的必要位置
+* 请到 [百度云](https://cloud.baidu.com/product/ocr) 注册账户开通文字识别应用，把信息填写到 test.py 的必要位置
 
 #### 其他修改
 
