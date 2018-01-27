@@ -1,6 +1,6 @@
 ﻿# coding: utf-8
 ## coding by Synsis [https://github.com/synsis]
-## 27/01/2008
+## 27/01/2018
 import time
 import json
 import requests
