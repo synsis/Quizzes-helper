@@ -1,4 +1,6 @@
 ﻿# coding: utf-8
+## coding by Synsis [https://github.com/synsis]
+## 27/01/2008
 import time
 import json
 import requests
@@ -9,7 +11,7 @@ import pyscreenshot as ImageGrab
 from aip import AipOcr
 ##import webbrowser
 
-""" baidu ocr 自己注册填写 """
+##baidu ocr 自己注册填写
 APP_ID = ''
 API_KEY = ''
 SECRET_KEY = ''
